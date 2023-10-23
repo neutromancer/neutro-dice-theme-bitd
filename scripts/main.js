@@ -18,12 +18,12 @@ Hooks.once('diceSoNiceReady', dice3d => {
     dice3d.addDicePreset({
         type: 'd6',
         labels: [
-            'modules/foundryvtt-mydice/textures/bitd/1.webp',
-            'modules/foundryvtt-mydice/textures/bitd/2.webp',
-            'modules/foundryvtt-mydice/textures/bitd/3.webp',
-            'modules/foundryvtt-mydice/textures/bitd/4.webp',
-            'modules/foundryvtt-mydice/textures/bitd/5.webp',
-            'modules/foundryvtt-mydice/textures/bitd/6.webp',
+            'modules/neutro-dice-theme-bitd/textures/bitd/1.webp',
+            'modules/neutro-dice-theme-bitd/textures/bitd/2.webp',
+            'modules/neutro-dice-theme-bitd/textures/bitd/3.webp',
+            'modules/neutro-dice-theme-bitd/textures/bitd/4.webp',
+            'modules/neutro-dice-theme-bitd/textures/bitd/5.webp',
+            'modules/neutro-dice-theme-bitd/textures/bitd/6.webp',
         ],
         system: 'bitd',
         colorset: 'bitd-base',
