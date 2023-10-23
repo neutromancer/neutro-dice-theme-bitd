@@ -1,0 +1,31 @@
+{
+  "id": "neutro-dice-theme-bitd",
+  "title": "Blades in the Dark theme for Dice So Nice",
+  "description": "An add-on module for Dice So Nice, with a new theme for Blades in the Dark d6 dice. Credit goes to Benjamin Wenger for the dice art.",
+  "authors": [
+    {
+      "name": "Sergio Le Roux",
+      "discord": "neutromancer"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11.305"
+  },
+  "esmodules": [
+    "scripts/main.js"
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "dice-so-nice",
+        "type": "module",
+        "manifest": "https://raw.githubusercontent.com/LyncsCwtsh/fvtt-module-nice-more-dice/main/nice-more-dice/module.json",
+        "compatibility": {
+          "verified": "4.6.8"
+        }
+      }
+    ]
+  }
+}
