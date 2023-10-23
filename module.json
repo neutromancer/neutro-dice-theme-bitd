@@ -27,5 +27,8 @@
         }
       }
     ]
-  }
+  },
+  "url": "https://github.com/neutromancer/neutro-dice-theme-bitd",
+  "manifest": "https://github.com/neutromancer/neutro-dice-theme-bitd/releases/latest/download/module.json",
+  "download": "https://github.com/neutromancer/neutro-dice-theme-bitd/releases/latest/download/module.zip"
 }
