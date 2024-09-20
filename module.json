@@ -8,10 +8,10 @@
       "discord": "neutromancer"
     }
   ],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "10",
-    "verified": "11.305"
+    "verified": "11.315"
   },
   "esmodules": [
     "scripts/main.js"
@@ -21,9 +21,9 @@
       {
         "id": "dice-so-nice",
         "type": "module",
-        "manifest": "https://raw.githubusercontent.com/LyncsCwtsh/fvtt-module-nice-more-dice/main/nice-more-dice/module.json",
+        "manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/raw/4.6.10/module/module.json",
         "compatibility": {
-          "verified": "4.6.8"
+          "verified": "4.6.10"
         }
       }
     ]
